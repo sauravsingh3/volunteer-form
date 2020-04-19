@@ -1,0 +1,61 @@
+html {
+  font-family: "Noto Serif", serif;
+  border: 1rem;
+}
+
+header {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+input {
+  border-color: #6e8c62;
+}
+
+textarea {
+  border-color: #6e8c62;
+}
+
+select {
+  border-color: #6e8c62;
+}
+
+.btn {
+  background-color: #6e8c62;
+  border-color: #6e8c62;
+  color: #fff;
+}
+
+hr {
+  border-color: #70ad55;
+  border-width: thin;
+}
+
+@media only screen and (min-width: 32em) {
+
+  .name {
+    padding-right: 1.25em;
+  }
+
+  .street {
+    padding-right: 1.25em;
+  }
+
+  .region {
+    padding-right: 1.25em;
+  }
+
+  .date {
+    padding-right: 1.25em;
+  }
+
+  .email {
+    padding-right: 1.25em;
+  }
+
+}
